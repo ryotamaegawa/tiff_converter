@@ -1,0 +1,2 @@
+# tiff_converter
+PythonでTIFFをJPEG/PNGに変換する課題用スクリプト
